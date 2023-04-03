@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GodBlessSakura
-- 👀 I’m interested in C go
+- 👀 I’m interested in Python C go
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
